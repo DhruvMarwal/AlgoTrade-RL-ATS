@@ -1,0 +1,2 @@
+model,bars,start,end,total_return_pct,annualized_sharpe_rough,max_drawdown_pct,entries,exits,time_in_market_pct,transaction_cost_per_position_change,feature_note
+A,71193,2024-01-02 02:10:00,2024-12-31 23:40:00,27.09654087758615,1.7168349706134054,-8.959712658304985,1,0,100.0,0.0005,Cross-timeframe diagnostic only; daily feature windows now mean bars; B GARCH feature approximated.

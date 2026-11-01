@@ -1,0 +1,4 @@
+experiment,seed,episode,start_index,end_index_exclusive,start_date,end_date,episode_length_steps,random_start_enabled,reset_seed
+B,0,1,1693,2193,2016-10-25,2018-10-23,500,True,0.0
+B,0,2,1268,1768,2015-02-18,2017-02-14,500,True,
+B,0,3,1017,1517,2014-02-19,2016-02-12,500,True,

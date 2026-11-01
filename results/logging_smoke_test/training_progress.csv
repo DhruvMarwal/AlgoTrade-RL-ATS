@@ -1,0 +1,2 @@
+experiment,seed,timesteps,recent_reward_mean,recent_reward_std,train_entropy_loss,train_policy_gradient_loss,train_value_loss,train_approx_kl,train_clip_fraction
+B,0,1024,-0.0458551073511444,0.5520633538669154,-1.0945960253477096,-0.009032360097626225,2.332419892400503,0.006311938166618347,0.04677734375

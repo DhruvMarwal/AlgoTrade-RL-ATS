@@ -1,0 +1,25 @@
+{
+  "experiment": "A",
+  "seed": 1,
+  "timesteps": 60000,
+  "train_start": "2008-07-24",
+  "train_end": "2019-12-30",
+  "valid_start": "2019-12-31",
+  "valid_end": "2022-12-30",
+  "test_start": "2023-01-03",
+  "test_end": "2026-10-26",
+  "feature_cols": [
+    "log_return",
+    "return_5d",
+    "return_10d",
+    "rolling_vol_10d",
+    "rsi_14"
+  ],
+  "guardrail": false,
+  "guardrail_vol_threshold": 0.022913701138457795,
+  "vol_quantile": 0.85,
+  "transaction_cost": 0.0005,
+  "turnover_penalty": 0.0008,
+  "features_csv": "results/icln_daily/features.csv",
+  "selection_metric": "validation composite; test not used for selection"
+}

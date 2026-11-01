@@ -1,0 +1,21 @@
+{
+  "created_at_utc": "2026-10-26T11:36:58.943253+00:00",
+  "input_csv": "C:\\Users\\dhruv\\Downloads\\rl_trading_project4\\rl_trading_project\\data\\gold.csv",
+  "rows_used": 3756,
+  "features": [
+    "log_return",
+    "return_5d",
+    "return_10d",
+    "volatility_10d",
+    "rsi_14"
+  ],
+  "actions": {
+    "0": "HOLD",
+    "1": "BUY/open long",
+    "2": "SELL/close long"
+  },
+  "training_timesteps_requested": 1024,
+  "seed": 7,
+  "environment_note": "Standalone long/flat teaching environment; reward = position * next-row log return - 5 bps on position changes. Not the project's existing custom environment unless its reward/observation design matches.",
+  "replay_note": "Action probabilities are from the saved trained policy; replay uses deterministic argmax action selection."
+}

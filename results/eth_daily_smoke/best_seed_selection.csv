@@ -1,0 +1,4 @@
+experiment,selected_seed,validation_return_pct,validation_sharpe,validation_max_drawdown_pct,selection_score,model_path
+A,0,-15.972506293233291,-0.10569517505215874,-67.51887776529652,-0.6030146268109743,models\eth_daily_smoke\selected\A\model.zip
+B,0,-45.082756337973464,-0.4122297186397143,-71.8944702879202,-1.2225296334590499,models\eth_daily_smoke\selected\B\model.zip
+C,0,-22.150594604743567,-0.1839748020139092,-69.22438511707134,-0.7516026736467016,models\eth_daily_smoke\selected\C\model.zip

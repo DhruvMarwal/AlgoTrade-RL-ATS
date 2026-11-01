@@ -1,0 +1,2 @@
+experiment,seed,split,total_return_pct,sharpe,sortino,max_drawdown_pct,entries,total_trades,time_in_market_pct,cost_drag_pct,guard_overrides
+B,0,test,40.24891184925432,1.2797118614993255,1.6946120743216049,-10.891662580237515,2,4,84.66135458167331,0.199850049993755,0

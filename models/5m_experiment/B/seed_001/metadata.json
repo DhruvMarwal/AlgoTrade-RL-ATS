@@ -1,0 +1,28 @@
+{
+  "experiment": "B",
+  "seed": 1,
+  "timesteps": 60000,
+  "train_start": "2023-01-03",
+  "train_end": "2023-12-29",
+  "valid_start": "2024-01-02",
+  "valid_end": "2024-12-30",
+  "test_start": "2024-12-31",
+  "test_end": "2025-09-30",
+  "feature_cols": [
+    "log_return",
+    "return_5d",
+    "return_10d",
+    "rolling_vol_10d",
+    "rsi_14",
+    "garch_cond_vol",
+    "regime_flag",
+    "momentum_signal"
+  ],
+  "guardrail": false,
+  "guardrail_vol_threshold": 0.00060030087896709,
+  "vol_quantile": 0.85,
+  "transaction_cost": 0.0005,
+  "turnover_penalty": 0.0008,
+  "features_csv": "results/features_5m_2023_2025.csv",
+  "selection_metric": "validation composite; test not used for selection"
+}

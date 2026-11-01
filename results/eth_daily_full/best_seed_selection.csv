@@ -1,0 +1,4 @@
+experiment,selected_seed,validation_return_pct,validation_sharpe,validation_max_drawdown_pct,selection_score,model_path
+A,3,8.059914206025521,0.057020414901756765,-44.97397197170207,-0.08725030289649838,models\eth_daily_full\selected\A\model.zip
+B,3,-16.2964046792201,-0.13386460549266893,-44.91753163988495,-0.5214163104842947,models\eth_daily_full\selected\B\model.zip
+C,0,-24.765983691718407,-0.19423160303439432,-61.49675876443145,-0.7493752337737356,models\eth_daily_full\selected\C\model.zip

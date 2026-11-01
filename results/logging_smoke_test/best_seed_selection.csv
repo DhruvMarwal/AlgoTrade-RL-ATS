@@ -1,0 +1,2 @@
+experiment,selected_seed,validation_return_pct,validation_sharpe,validation_max_drawdown_pct,selection_score,model_path
+B,0,17.82125669546828,0.30878818060515956,-21.18971192726242,0.38105218792353024,models\logging_smoke_test\selected\B\model.zip

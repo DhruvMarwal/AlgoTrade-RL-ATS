@@ -1,0 +1,28 @@
+{
+  "experiment": "C",
+  "seed": 2,
+  "timesteps": 60000,
+  "train_start": "2017-11-29",
+  "train_end": "2021-12-31",
+  "valid_start": "2022-01-01",
+  "valid_end": "2023-12-31",
+  "test_start": "2024-01-01",
+  "test_end": "2026-10-26",
+  "feature_cols": [
+    "log_return",
+    "return_5d",
+    "return_10d",
+    "rolling_vol_10d",
+    "rsi_14",
+    "garch_cond_vol",
+    "regime_flag",
+    "momentum_signal"
+  ],
+  "guardrail": true,
+  "guardrail_vol_threshold": 0.06337515030933961,
+  "vol_quantile": 0.85,
+  "transaction_cost": 0.0005,
+  "turnover_penalty": 0.0008,
+  "features_csv": "results/eth_daily/features.csv",
+  "selection_metric": "validation composite; test not used for selection"
+}

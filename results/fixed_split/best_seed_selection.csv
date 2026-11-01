@@ -1,0 +1,4 @@
+experiment,selected_seed,validation_return_pct,validation_sharpe,validation_max_drawdown_pct,selection_score,model_path
+A,4,24.41458572529307,0.47209337350225256,-17.896697323333143,0.6267557441385175,models\fixed_split\selected\A\model.zip
+B,4,9.252052716017477,0.7961094966046739,-2.8911563846777604,0.8741742418414599,models\fixed_split\selected\B\model.zip
+C,1,2.242792877299249,0.06232840440577637,-15.931622788020988,0.005098219238663909,models\fixed_split\selected\C\model.zip

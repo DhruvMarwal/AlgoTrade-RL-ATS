@@ -1,0 +1,4 @@
+experiment,selected_seed,validation_return_pct,validation_sharpe,validation_max_drawdown_pct,selection_score,model_path
+A,0,-26.878138510190887,-0.3732620500673512,-46.08696697657433,-0.8724782700521317,models\icln_daily_smoke\selected\A\model.zip
+B,0,66.1202480781537,0.4560152778738923,-46.81480528668358,0.8831437322220114,models\icln_daily_smoke\selected\B\model.zip
+C,0,-23.700684902446824,-0.44347883021856893,-45.295584550970034,-0.9069636019978873,models\icln_daily_smoke\selected\C\model.zip

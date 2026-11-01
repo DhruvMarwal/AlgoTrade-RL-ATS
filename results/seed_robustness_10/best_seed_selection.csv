@@ -1,0 +1,4 @@
+experiment,selected_seed,validation_return_pct,validation_sharpe,validation_max_drawdown_pct,selection_score,model_path
+A,7,21.46714902586315,0.7217426011777561,-7.140057084091104,0.9007138060159321,models\seed_robustness_10\selected\A\model.zip
+B,8,25.123559768201464,0.8676267416252558,-8.937969041955668,1.074172494097492,models\seed_robustness_10\selected\B\model.zip
+C,5,7.218191488629477,0.24715475903916126,-16.65126507210965,0.2360803485649078,models\seed_robustness_10\selected\C\model.zip

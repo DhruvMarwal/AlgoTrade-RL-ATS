@@ -1,0 +1,3 @@
+experiment,selected_seed,validation_return_pct,validation_sharpe,validation_max_drawdown_pct,selection_score,model_path
+A,2,26.059378892281426,0.09797904875029717,-8.959712658304346,0.3137742743815897,models\5m_experiment\selected\A\model.zip
+B,0,26.414991251894058,0.09990000400781338,-8.959712658304369,0.3192513532352321,models\5m_experiment\selected\B\model.zip

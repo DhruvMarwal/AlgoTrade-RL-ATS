@@ -1,0 +1,6 @@
+strategy,runs,return %,Sharpe,max DD %,Sortino,entries,total trades,in market %,cost drag %,p<0.05 vs B&H
+flat (cash),1,0.0,0.00,0.0,0.00,0.0,0.0,0,0.0,-
+buy & hold,1,19.7,0.34,-21.2,0.45,1.0,1.0,100,0.0,-
+momentum (10d>0),1,-12.6,-0.35,-26.4,-0.34,69.0,137.0,54,6.6,-
+vol filter (no RL),1,1.7,0.04,-24.6,0.04,8.0,15.0,82,0.7,-
+B,1,17.8,0.31,-21.2,0.41,1.0,1.0,100,0.0,0/1
