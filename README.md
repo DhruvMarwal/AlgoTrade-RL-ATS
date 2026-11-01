@@ -1227,19 +1227,10 @@ Although the project implements a complete historical trading research workflow,
 
 ---
 
-## Contributors
+## 👤 Authors
 
-- Shivang Jain
-- Priyanshu Jha
-- Dhruv Marwal
+- GitHub: [Dhruv Marwal](https://github.com/DhruvMarwal) , [Priyanshu Jha](https://github.com/Priyanshu0423) , [Shivang Jain](https://github.com/Xopse)
+- LinkedIn: [Dhruv Marwal](https://linkedin.com/in/dhruvmarwal) , [Priyanshu Jha](https://linkedin.com/in/priyanshujha-) , [Shivang Jain](https://linkedin.com/in/shivang-jain-69602132a)
 
 ---
 
-## Final Note
-
-This project was developed to explore how Reinforcement Learning can be applied to algorithmic trading, how different feature configurations influence trading behaviour, and how model performance can be evaluated using risk-adjusted metrics and chronological testing.
-
-The repository preserves the experiments, saved policies, logs, evaluation results and application components developed throughout the project.
-
-**Historical performance is not a guarantee of future returns.**
->>>>>>> 9c43355 (Add detailed README and frontend screenshots)
