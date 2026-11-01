@@ -818,7 +818,7 @@ Check the `--out_dir` and `--model_dir` values in the command. Relative paths ar
 ## 👤 Author
 
 **Your Name**
-- GitHub: [Priyanshu Jha](https://github.com/Priyanshu0423) , [Dhruv Marwal](https://github.com/DhruvMarwal) , [Shivang Jain](https://github.com/Xopse)
-- LinkedIn: [Priyanshu Jha](https://linkedin.com/in/priyanshujha-) , [Dhruv Marwal](https://linkedin.com/in/dhruvmarwal) , [Shivang Jain](https://linkedin.com/in/shivang-jain-69602132a)
+- GitHub: [Dhruv Marwal](https://github.com/DhruvMarwal) , [Priyanshu Jha](https://github.com/Priyanshu0423) , [Shivang Jain](https://github.com/Xopse)
+- LinkedIn: [Dhruv Marwal](https://linkedin.com/in/dhruvmarwal) , [Priyanshu Jha](https://linkedin.com/in/priyanshujha-) , [Shivang Jain](https://linkedin.com/in/shivang-jain-69602132a)
 
 ---
